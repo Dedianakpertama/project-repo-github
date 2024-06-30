@@ -4,7 +4,7 @@
 
 ---
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/dedisaputraa4041/)
 
 Like my works and want to support me?
 
@@ -14,7 +14,7 @@ Like my works and want to support me?
 
 ## Other projects
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
+📚 [All Web Cifar Project Tutorials](https://github.com/dedisaputra/wc-project-tutorials)
   
 
 
